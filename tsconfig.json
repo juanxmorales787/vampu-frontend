@@ -1,7 +1,35 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+  "compilerOptions": {
+    /* Target modern JS for web3 libs */
+    "target": "ES2020",
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+
+    /* React + Vite */
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowJs": false,
+
+    /* App ergonomics */
+    "strict": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true
+
+    /* Path aliases (optional; uncomment if you add aliases)
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+    */
+
+    /* Type roots (Vite auto-finds most types; you can extend if using custom env types)
+    "typeRoots": ["./node_modules/@types", "./types"]
+    */
+  },
+  "include": ["src", "vite-env.d.ts"]
 }
+

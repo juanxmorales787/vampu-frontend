@@ -1,0 +1,14 @@
+{
+  "price": 0.01,
+  "number": 1,
+  "symbol": "VAMPU",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "retainAuthority": true,
+  "isSequential": false,
+  "creators": [
+    { "address": "CXGWwGmjrz6tDwgfqbCBaEEpxGVnHmcRK1SwfZ9LanSt", "share": 100 }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null
+}

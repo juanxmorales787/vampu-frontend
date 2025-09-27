@@ -1,0 +1,13 @@
+{
+  "name": "Vampu Test Collection",
+  "symbol": "VAMPU",
+  "description": "Devnet collection for Vampu test mints.",
+  "image": "collection.png",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "collection.png", "type": "image/png" }],
+    "creators": [
+      { "address": "CXGWwGmjrz6tDwgfqbCBaEEpxGVnHmcRK1SwfZ9LanSt", "share": 100 }
+    ]
+  }
+}

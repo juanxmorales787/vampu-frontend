@@ -6,5 +6,6 @@ export const ADDRS = {
   stakingProgram: null
 };
 
-// Set this to match your guard's startDate (UTC)
+// Set this to the same UTC time as your guard's startDate
 export const START_DATE_UTC = "2025-09-23T00:00:00Z";
+

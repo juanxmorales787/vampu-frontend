@@ -1,0 +1,14 @@
+{
+  "name": "Vampu Test #1",
+  "symbol": "VAMPU",
+  "description": "Test mint via Sugar on devnet.",
+  "image": "0.png",
+  "seller_fee_basis_points": 500,
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "creators": [
+      { "address": "CXGWwGmjrz6tDwgfqbCBaEEpxGVnHmcRK1SwfZ9LanSt", "share": 100 }
+    ]
+  }
+}

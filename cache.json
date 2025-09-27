@@ -1,0 +1,26 @@
+{
+  "program": {
+    "candyMachine": "CdYMDKvovdTqxYwPpjQYSfsen49cit9FFStWJjKTjUXE",
+    "candyGuard": "",
+    "candyMachineCreator": "9p5NWwm4gQzHSs4UZZk1y8nZnQPKW1uoREmW82wmoegE",
+    "collectionMint": "A9c8S86La2m8RJwcjCirDKV98AQwoChCdQTBjHD8Ec9"
+  },
+  "items": {
+    "-1": {
+      "name": "Vampu Test Collection",
+      "image_hash": "59898c644a13800d55b0db7492ec334b93d619fd77c75294a760b3a59ab647e4",
+      "image_link": "https://gateway.irys.xyz/Bh8iApEGzrrMR1qvB2stK7FkYncbFWqY8tsgLDZnG7RZ?ext=png",
+      "metadata_hash": "f9d88f2c4c826136614f4e55895d8042f32005156a1e74b039266c45a5c3f317",
+      "metadata_link": "https://gateway.irys.xyz/6wzHkU8RXDZeT39ykegZRjK8VZt5nohjfwvcqDP26Fo3",
+      "onChain": true
+    },
+    "0": {
+      "name": "Vampu Test #1",
+      "image_hash": "59898c644a13800d55b0db7492ec334b93d619fd77c75294a760b3a59ab647e4",
+      "image_link": "https://gateway.irys.xyz/G2fsE5Tn6AUJ8T1XHVXWwjU5nGMmhzZDUYFPV9Uyeg9Q?ext=png",
+      "metadata_hash": "5db468fa96f2b8513ab50771dc1b37e9a183cfc04c789fcbbadeaa1b184e1da8",
+      "metadata_link": "https://gateway.irys.xyz/Hn1ihGrYLcTCWuuD6SLsYmfAW75EwtBZToBXFhtxcSGH",
+      "onChain": true
+    }
+  }
+}
